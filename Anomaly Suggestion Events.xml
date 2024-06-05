@@ -22,7 +22,7 @@
 			<!--<Param type="debug">true</Param>-->
 			<Message></Message>
       <Param type="preCompile">true</Param>
-      <Param type="libraryName">SLC-GQIO-RankIP</Param>
+      <Param type="libraryName">SLC-GQIO-AnomalySuggestionEvents</Param>
 		</Exe>
 	</Script>
 </DMSScript>
